@@ -1,4 +1,4 @@
-> List not exhaustive 
+> Not exhaustive list 
 
 ## Motivation
 
