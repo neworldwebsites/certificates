@@ -18,6 +18,6 @@ Une progression lente sans aucune précipitation, pour obtenir une fondation sol
 A slow progression without any precipitation, to obtain a solid and robust foundation.
 
 
-
+![Snowball](https://neworldwebsites.fr/cdn/img/snowball.jpg)
 
 
