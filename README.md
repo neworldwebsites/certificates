@@ -1,6 +1,6 @@
 > **Not exhaustive list**
 
-> [Visit Portofolio here](https://projets.neworldwebsites.fr/)
+> [Visit my Portofolio here](https://projets.neworldwebsites.fr/)
 
 ## Motivation
 Les certificats peuvent prouver mon assiduité et ma persévérance pour obtenir le niveau intermédiaire.
