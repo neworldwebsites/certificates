@@ -16,6 +16,7 @@ Une progression lente sans aucunes précipitations, pour obtenir une fondation s
 
 A slow progression without any precipitation, to obtain a solid and robust foundation.
 
-_____
-List not exhaustive 
+
+
+> List not exhaustive 
 
