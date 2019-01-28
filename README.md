@@ -12,4 +12,7 @@ EN: always pushes me to want to understand more in depth each fundamental of the
 FR: une progression lente sans aucunes précipitations, pour obtenir une fondation solide et robuste.
 
 EN: a slow progression without any precipitation, to obtain a solid and robust foundation.
- 
+
+
+List not exhaustive 
+
