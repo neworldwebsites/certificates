@@ -1,3 +1,5 @@
+> List not exhaustive 
+
 ## Motivation
 
 Les certificats peuvent prouver mon assiduité et ma persévérance pour obtenir le niveau intermédiaire
@@ -18,5 +20,5 @@ A slow progression without any precipitation, to obtain a solid and robust found
 
 
 
-> List not exhaustive 
+
 
