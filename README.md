@@ -11,7 +11,7 @@ Me pousse toujours à vouloir comprendre plus en profondeur chaque fondamentaux 
 Always pushes me to want to understand more in depth each fundamental of the languages of the web development.
 
 ## Organisation
-Une progression lente sans aucunes précipitations, pour obtenir une fondation solide et robuste.
+Une progression lente sans aucune précipitation, pour obtenir une fondation solide et robuste.
 
 A slow progression without any precipitation, to obtain a solid and robust foundation.
 
