@@ -3,9 +3,9 @@
 > [Visit my Portofolio here](https://projets.neworldwebsites.fr/)
 
 ## Motivation
-* Les certificats peuvent prouver mon assiduité et ma persévérance pour obtenir le niveau intermédiaire.
+* Les certificats proviennent des meilleurs mentors de web pour atteindre le niveau nécessaire.
 
-* Certificates can proove my attendance and perseverance to get intermidiary level.
+* The certificates come from the best web mentors to reach the required level.
 
 ## Passion
 * Me pousse toujours à vouloir comprendre plus en profondeur chaque fondamentaux des languages du dévelopement web.
