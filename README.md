@@ -3,9 +3,9 @@
 > [Visit my Portofolio here](https://projets.neworldwebsites.fr/)
 
 ## Motivation
-* Les certificats proviennent des meilleurs mentors de web pour atteindre le niveau nécessaire.
+* Les certificats proviennent des meilleurs mentors de web pour atteindre le niveau nécessaire à contribuer.
 
-* The certificates come from the best web mentors to reach the required level.
+* The certificates come from the best web mentors to reach the level needed to contribute.
 
 ## Passion
 * Me pousse toujours à vouloir comprendre plus en profondeur chaque fondamentaux des languages du dévelopement web.
