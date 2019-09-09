@@ -4,8 +4,21 @@
 
 # Cerfifications
 
-![REACT](react_openclassroom_5921293698.png) | ![GitHub Logo](Octocat.jpg) | ![GitHub Logo](Octocat.jpg)
-![GitHub Logo](Octocat.jpg) | ![GitHub Logo](Octocat.jpg) | ![GitHub Logo](Octocat.jpg)
+![REACT](react_openclassroom_5921293698.png)  
+![MYSQL](The Ultimate MySQL Bootcamp Go from SQL Beginner to Expert.png)  
+![AJAX](AJAX Let's build a COOL project_Edwin.png)
+![PDO](PHP with PDO - ULTIMATE Crash Course.png)  
+![PHP](PHP for Beginners - Become a PHP Master.png)  
+![INTEGRATEUR](parcours openclassrooms_integrateur web.png)
+![API](openclassrooms_utilisez-des-api-rest-dans-vos-projets-web.png)  
+![WORDPRESS](openclassrooms_propulsez-votre-site-avec-wordpress.png)  
+![BOOTSTRAP](openclassrooms_prenez-en-main-bootstrap.png)
+![POO-PHP](Object Oriented PHP & MVC_Traversy.png)  
+![JS-FUNCTIONS](Master Javascript Functions.png)  
+![JQUERY-PRO](Maîtrise jQuery Comme un Pro Guide Complet.png)
+![JS-ALGOS](Javascript-Algorithms.png)
+![JS-ES7](JavaScript le Guide Ultime (ES6 et ES7 inclus).png)
+![POO-JS](Foundation Javascript & Object Oriented JS.png)
 
 
 
