@@ -9,7 +9,7 @@
 ![AJAX](AJAX_Lets_build_a_COOL_project_Edwin.png)
 ![PDO](PHP_with_PDO_ULTIMATE_Crash_Course.png)  
 ![PHP](PHP_for_Beginners-Become_a_PHP_Master.png)  
-![INTEGRATEUR](parcours openclassrooms_integrateur web.png)
+![INTEGRATEUR](parcours openclassrooms_integrateur_web.png)
 ![API](openclassrooms_utilisez-des-api-rest-dans-vos-projets-web.png)  
 ![WORDPRESS](openclassrooms_propulsez-votre-site-avec-wordpress.png)  
 ![BOOTSTRAP](openclassrooms_prenez-en-main-bootstrap.png)
