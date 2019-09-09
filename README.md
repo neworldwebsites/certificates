@@ -14,10 +14,10 @@
 ![WORDPRESS](openclassrooms_propulsez-votre-site-avec-wordpress.png)  
 ![BOOTSTRAP](openclassrooms_prenez-en-main-bootstrap.png)
 ![POO-PHP](Object_Oriented_PHP_MVC_Traversy.png)  
-![JS-FUNCTIONS](Master Javascript Functions.png)  
+![JS-FUNCTIONS](Master_Javascript_Functions.png)  
 ![JQUERY-PRO](Maîtrise_jQuery_Comme_un_Pro_Guide_Complet.png)
 ![JS-ALGOS](Javascript-Algorithms.png)
-![JS-ES7](JavaScript_Guide_Ultime_(ES6_ ES7_inclus).png)
+![JS-ES7](JavaScript_Guide_Ultime_(ES6_ES7_inclus).png)
 ![POO-JS](Foundation_Javascript_Object_Oriented_JS.png)
 
 
