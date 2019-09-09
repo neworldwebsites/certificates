@@ -5,20 +5,20 @@
 # Cerfifications
 
 ![REACT](react_openclassroom_5921293698.png)  
-![MYSQL](The Ultimate MySQL Bootcamp Go from SQL Beginner to Expert.png)  
-![AJAX](AJAX Let's build a COOL project_Edwin.png)
-![PDO](PHP with PDO - ULTIMATE Crash Course.png)  
-![PHP](PHP for Beginners - Become a PHP Master.png)  
+![MYSQL](The_Ultimate_MySQL_Bootcamp_Go_from_SQL_Beginner_to_Expert.png)  
+![AJAX](AJAX_Lets_build_a_COOL_project_Edwin.png)
+![PDO](PHP_with_PDO_ULTIMATE_Crash_Course.png)  
+![PHP](PHP_for_Beginners-Become_a_PHP_Master.png)  
 ![INTEGRATEUR](parcours openclassrooms_integrateur web.png)
 ![API](openclassrooms_utilisez-des-api-rest-dans-vos-projets-web.png)  
 ![WORDPRESS](openclassrooms_propulsez-votre-site-avec-wordpress.png)  
 ![BOOTSTRAP](openclassrooms_prenez-en-main-bootstrap.png)
-![POO-PHP](Object Oriented PHP & MVC_Traversy.png)  
+![POO-PHP](Object_Oriented_PHP_MVC_Traversy.png)  
 ![JS-FUNCTIONS](Master Javascript Functions.png)  
-![JQUERY-PRO](Maîtrise jQuery Comme un Pro Guide Complet.png)
+![JQUERY-PRO](Maîtrise_jQuery_Comme_un_Pro_Guide_Complet.png)
 ![JS-ALGOS](Javascript-Algorithms.png)
-![JS-ES7](JavaScript le Guide Ultime (ES6 et ES7 inclus).png)
-![POO-JS](Foundation Javascript & Object Oriented JS.png)
+![JS-ES7](JavaScript_Guide_Ultime_(ES6_ ES7_inclus).png)
+![POO-JS](Foundation_Javascript_Object_Oriented_JS.png)
 
 
 
