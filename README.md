@@ -2,6 +2,13 @@
 
 > [Visit my Portofolio here](https://projets.neworldwebsites.fr/)
 
+# Cerfifications
+
+![REACT](react_openclassroom_5921293698.png) | ![GitHub Logo](Octocat.jpg) | ![GitHub Logo](Octocat.jpg)
+![GitHub Logo](Octocat.jpg) | ![GitHub Logo](Octocat.jpg) | ![GitHub Logo](Octocat.jpg)
+
+
+
 ## Motivation
 * Les certificats proviennent des meilleurs mentors du web pour atteindre le niveau nécessaire à pouvoir contribuer.
 
